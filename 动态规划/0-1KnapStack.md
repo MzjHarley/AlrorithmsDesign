@@ -7,7 +7,7 @@
 
 Example：There are 5 items，their weight  {2,2,6,5,4},value is {6,3,5,4,6},the bag's capacity is 10.Please solving the 0-1 KnapStack problem. 
 
-
+![contents](https://github.com/MzjHarley/AlrorithmsDesign/blob/main/IMG/1.png)  
 **TotalValue:the bag's item total value.
 i:the item 's serial number.                    
 j:the bag's capacity.                               
